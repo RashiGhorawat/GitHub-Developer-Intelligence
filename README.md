@@ -91,7 +91,7 @@ GitHub-Developer-Intelligence/
 
 ### Language Intelligence
 
-![Language Intelligence](screenshots/language%20intelligence.png)
+![Language Intelligence](screenshots/langauge%20intelligence.png)
 
 ### Repository Performance
 
